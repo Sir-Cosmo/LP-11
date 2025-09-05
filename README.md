@@ -16,3 +16,8 @@ Ich werde an dem Buch "C# for Dummies" Arbeiten.
 - [X] C# Kurs lösen um meine Skills wieder aufzufrüschen für das Praktikum bei Messerli
 
 Ich habe heute zuerst einmal nach einem Online-Kurs für C# gesucht. Ich habe dann relativ schnell einen gefunden in Form von [Exercism](https://exercism.org/). Auf dieser habe ich mich dann in den C# Kurs eingeschrieben. Ich habe mit den Basics angefangen und die ersten 4 Aufgaben gelöst. Dies ist gut gegangen und ich bin gut vorangekommen. Ich konnte wieder meine OOP-Skills auffrischen und mich an die C# Syntax gewöhnen.
+
+# 05.09
+- [ ] Angular Kurs
+- [ ] Angular Kurs
+- [ ] Angular Kurs
