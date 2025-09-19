@@ -33,13 +33,12 @@ Heute habe ich den ersten Tag des Angular-Kurses abgeschlossen und dabei Bootstr
 
 # 19.09.
 
-- [ ] Angular Update Projekt auf Angular 19 aktualisieren, um sicherzustellen, dass alles mit LearnWithAI kompatibel ist.
+- [X] Angular Update Projekt auf Angular 19 aktualisieren, um sicherzustellen, dass alles mit LearnWithAI kompatibel ist.
+- [X] Angular CDK Drag & Drop Erste Implementierung der Drag & Drop-Funktionalität, um grundlegendes Verschieben von Elementen zu ermöglichen.
+- [X] Angular CDK Drag & Drop Drag & Drop so erweitern, dass Elemente nur innerhalb eines definierten Bereichs bewegt werden können.
+- [X] Drag & Drop testen und optimieren, um sicherzustellen, dass neue Nodes nicht ausserhalb des sichtbaren Bereichs entstehen und der Code möglichst schlank bleibt.
 
-- [ ] Angular CDK Drag & Drop Erste Implementierung der Drag & Drop-Funktionalität, um grundlegendes Verschieben von Elementen zu ermöglichen.
-
-- [ ] Angular CDK Drag & Drop Drag & Drop so erweitern, dass Elemente nur innerhalb eines definierten Bereichs bewegt werden können.
-
-- [ ] Drag & Drop testen und optimieren, um sicherzustellen, dass neue Nodes nicht außerhalb des sichtbaren Bereichs entstehen und der Code möglichst schlank bleibt.
+Heute habe ich mich auf die Weiterentwicklung des Projekts konzentriert und dabei neue Technologien integriert. Zuerst habe ich das Projekt auf Angular 19 aktualisiert, um sicherzustellen, dass es mit der aktuellen Version von LearnWithAI kompatibel ist. Anschliessend habe ich begonnen, die Drag & Drop-Funktionalität mit dem Angular CDK umzusetzen. Dabei habe ich zunächst die grundlegende Bewegung von Elementen realisiert und anschliessend eine Begrenzung definiert, sodass Elemente nur innerhalb eines bestimmten Bereichs verschoben werden können. Zum Schluss habe ich Tests durchgeführt und den Code optimiert, um zu verhindern, dass neue Nodes ausserhalb des sichtbaren Bereichs entstehen. Der Tag war technisch anspruchsvoll, aber sehr lehrreich und hat eine gute Grundlage für die nächsten Schritte geschaffen.
 
 
 
