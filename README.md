@@ -41,4 +41,9 @@ Heute habe ich den ersten Tag des Angular-Kurses abgeschlossen und dabei Bootstr
 Heute habe ich mich auf die Weiterentwicklung des Projekts konzentriert und dabei neue Technologien integriert. Zuerst habe ich das Projekt auf Angular 19 aktualisiert, um sicherzustellen, dass es mit der aktuellen Version von LearnWithAI kompatibel ist. Anschliessend habe ich begonnen, die Drag & Drop-Funktionalität mit dem Angular CDK umzusetzen. Dabei habe ich zunächst die grundlegende Bewegung von Elementen realisiert und anschliessend eine Begrenzung definiert, sodass Elemente nur innerhalb eines bestimmten Bereichs verschoben werden können. Zum Schluss habe ich Tests durchgeführt und den Code optimiert, um zu verhindern, dass neue Nodes ausserhalb des sichtbaren Bereichs entstehen. Der Tag war technisch anspruchsvoll, aber sehr lehrreich und hat eine gute Grundlage für die nächsten Schritte geschaffen.
 
 
+# 26.09
+- [ ] Projekt (learnwithAI) optimierung und verbessern der run time bzw start up time.
+- [ ] Sotierung verbessern und linie zwischen den Nodes einfügen für besseren look (LearnWithAI)
+- [ ] Clean Code Implementierung bzw. verbessern im Code
+- [ ] Styling von der Website Verbessern so das es mehr zum LearnWithAI style passt.
 
