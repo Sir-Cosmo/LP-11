@@ -42,8 +42,12 @@ Heute habe ich mich auf die Weiterentwicklung des Projekts konzentriert und dabe
 
 
 # 26.09
-- [ ] Projekt (learnwithAI) optimierung und verbessern der run time bzw start up time.
-- [ ] Sotierung verbessern und linie zwischen den Nodes einfügen für besseren look (LearnWithAI)
-- [ ] Clean Code Implementierung bzw. verbessern im Code
-- [ ] Styling von der Website Verbessern so das es mehr zum LearnWithAI style passt.
+- [X] Projekt (learnwithAI) optimierung und verbessern der run time bzw start up time.
+- [X] Sotierung verbessern und linie zwischen den Nodes einfügen für besseren look (LearnWithAI)
+- [X] Clean Code Implementierung bzw. verbessern im Code
+- [X] Styling von der Website Verbessern so das es mehr zum LearnWithAI style passt.
 
+# Gesamt Reflexion
+Insgesamt war die LP-11 sehr lehrreich und produktiv. Ich habe meine Kenntnisse in C# wieder aufgefrischt, mich stark im Bereich Angular weiterentwickelt und gleichzeitig praktische Projekterfahrung gesammelt. Mein Ziel, mich in Programmierung zu verbessern, habe ich klar verfolgt und dabei sowohl technische als auch methodische Fortschritte gemacht. Auch wenn ich mein ursprüngliches C#-Projekt (Buch „C# for Dummies“) nicht vollständig in den Mittelpunkt gestellt habe, habe ich dennoch effektiv an meinen Fähigkeiten gearbeitet und konnte sie gezielt im Projekt anwenden.
+
+Für die nächste LP möchte ich mir weiterhin klare Ziele setzen, jedoch darauf achten, den Umfang realistisch einzuschätzen, damit ich Planung und Umsetzung noch strukturierter gestalten kann.
